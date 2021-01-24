@@ -1,0 +1,9 @@
+23/01 - 17:00pm : Started installing local wordpress and theme, needed purchase code to activate theme.
+23/01 - 21:00pm : Production resumed, began building the landing page, starting by customizing the main slider. 
+23/01 - 22:00pm : Searched around image databases for material.
+23/01 - 23:00pm : Created a quick logo and edited a few images, while also compressing.
+24/01 - 00:00am : Changed version control plataform to github desktop commiting as a PRIVATE repository, reason being that some unknown errors appeared on git commiting new changes.
+24/01 - 01:00am : Changed menus inside links, edited a few more images. Paused.
+24/01 - 01:30pm : Resumed development, began finishing section and touches on the page.
+24/01 - 02:00pm : Optimized the page via AIO, changing meta description, title, heading tags, some image alt texts, some subheadings, keyphrase, internal links, etc.
+24/01 - 03:00pm : Finished production.
